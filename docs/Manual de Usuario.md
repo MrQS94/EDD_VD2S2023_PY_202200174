@@ -1,4 +1,4 @@
-# Manual Técnico - Tutorías ECYS
+# Manual del Usuario - Tutorías ECYS
 Nombre del Estudiante: Andres Alejandro Quezada Cabrera
 
 Carné: 202200174
