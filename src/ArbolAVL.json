@@ -1,0 +1,36 @@
+{
+    "Cursos": [
+        {
+            "Codigo": "0781",
+            "Nombre": "Introducción a la programación y computación 1"
+        },
+        {
+            "Codigo": "0775",
+            "Nombre": "Introducción a la programación y computación 2"
+        },
+        {
+            "Codigo": "0784",
+            "Nombre": "Programación Orientada a Objetos"
+        },
+        {
+            "Codigo": "0771",
+            "Nombre": "Estructura de Datos"
+        },
+        {
+            "Codigo": "0785",
+            "Nombre": "Programación de Sistemas"
+        },
+        {
+            "Codigo": "0772",
+            "Nombre": "Manejo e implementación de archivos"
+        },
+        {
+            "Codigo": "0773",
+            "Nombre": "Manejo e implementación de archivos"
+        },
+        {
+            "Codigo": "0782",
+            "Nombre": "Programación Visual"
+        }   
+    ]
+}
