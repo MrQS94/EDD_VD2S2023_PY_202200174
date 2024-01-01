@@ -1,0 +1,10 @@
+digraph arbol { 
+node[shape=record]
+R0771[label="<C1>|0771|<C2>|0775|<C3>"];
+R0770[label="0770"];
+R0772[label="0772|0772"];
+R0781[label="0781"];
+R0771:C1 -> R0770;
+R0771:C2 -> R0772;
+R0771:C3 -> R0781;
+}

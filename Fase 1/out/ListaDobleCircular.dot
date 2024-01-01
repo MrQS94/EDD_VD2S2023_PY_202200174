@@ -1,0 +1,42 @@
+digraph G {
+ node[shape=box];
+rankdir=UD;
+{rank=min;
+nodo0[label="Nombre: Luis Rene Yaquian Recinos,\nCarnet: 202001471"];
+nodo0 -> nodo1;
+nodo1[label="Nombre: Fernando Misael Morales Ortiz,\nCarnet: 202001950"];
+nodo1 -> nodo2;
+nodo2[label="Nombre: Daniel Alexander Barrera Figueroa,\nCarnet: 202004783"];
+nodo2 -> nodo3;
+nodo3[label="Nombre: Francisco Javier Cetino Mendez,\nCarnet: 202006716"];
+nodo3 -> nodo4;
+nodo4[label="Nombre: Ana Lucia Fletes Ordoñez,\nCarnet: 202010003"];
+nodo4 -> nodo5;
+nodo5[label="Nombre: Allan Estuardo Sitán Bor,\nCarnet: 202010046"];
+nodo5 -> nodo6;
+nodo6[label="Nombre: Velveth Nayely Pérez Yas,\nCarnet: 202010810"];
+nodo6 -> nodo7;
+nodo7[label="Nombre: Tobias Rafael Zamora Santos,\nCarnet: 202010828"];
+nodo7 -> nodo8;
+nodo8[label="Nombre: Wilson Adonías Carrera Aguilar,\nCarnet: 202010915"];
+nodo8 -> nodo9;
+nodo9[label="Nombre: Juan Gabriel Ramirez Gramajo,\nCarnet: 202100087"];
+nodo9 -> nodo10;
+nodo10[label="Nombre: Samuel Isaí Muñoz Pereira,\nCarnet: 202100119"];
+nodo10 -> nodo11;
+nodo11[label="Nombre: Daniel Alexander Barrera Figueroa,\nCarnet: 202004783"];
+nodo0 -> nodo11;
+nodo1 -> nodo0;
+nodo2 -> nodo1;
+nodo3 -> nodo2;
+nodo4 -> nodo3;
+nodo5 -> nodo4;
+nodo6 -> nodo5;
+nodo7 -> nodo6;
+nodo8 -> nodo7;
+nodo9 -> nodo8;
+nodo10 -> nodo9;
+nodo11 -> nodo10;
+nodo11 -> nodo0;
+}
+}
