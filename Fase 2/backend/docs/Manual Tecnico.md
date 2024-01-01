@@ -7,9 +7,35 @@ Curso y Sección: ESTRUCTURAS DE DATOS A
 
 ## Introducción
 
-Bienvenido a nuestra Plataforma Educativa, diseñada para brindar una gestión académica eficiente y una experiencia de aprendizaje colaborativo excepcional. Este manual te guiará a través de las funciones clave para estudiantes, tutores y administradores, asegurando una navegación fluida y efectiva. Accede a la plataforma de manera personalizada, diferenciando entre estudiantes, tutores y administradores para adaptar la experiencia a tus necesidades específicas. Los administradores pueden realizar cargas masivas de datos para tutores y estudiantes, optimizando la eficiencia mediante estructuras como el árbol B y la tabla hash. Facilitamos la carga de cursos y sus dependencias mediante archivos JSON, visualizando conexiones a través de un grafo dirigido para una planificación académica efectiva. Los administradores toman decisiones sobre libros propuestos por tutores, utilizando un árbol de Merkle para garantizar la integridad de las acciones y la seguridad del contenido. Los tutores pueden cargar libros y contenido educativo certificado y aprobado por el administrador, utilizando codificación Base64 para una gestión eficiente de archivos Los estudiantes acceden a cursos asignados, visualizan libros aceptados y lecciones publicadas por tutores para una experiencia educativa personalizada Los administradores generan reportes visuales en tiempo real, proporcionando representaciones gráficas del árbol B, tabla hash, árbol de Merkle y grafo de cursos.
+¡Bienvenido al Manual Técnico de nuestra Plataforma Educativa! Este documento proporciona una visión detallada de las funciones y tecnologías clave implementadas en nuestra plataforma, diseñada para ofrecer una gestión académica eficiente y una experiencia de aprendizaje colaborativo excepcional. A continuación, se presenta un resumen de los aspectos técnicos más relevantes:
 
-Nota: Priorizamos la seguridad mediante la encriptación de contraseñas y el uso de tecnologías robustas para proteger la integridad de los datos. Recomendamos utilizar navegadores actualizados para una experiencia óptima.
+1. Gestión de Datos Eficiente:
+
+Árbol B y Tabla Hash: Implementamos un Árbol B para una gestión eficiente de libros y tutores, permitiendo búsquedas, inserciones y eliminaciones rápidas. La Tabla Hash optimiza la búsqueda de información relacionada con estudiantes y cursos.
+
+2. Carga de Cursos y Planificación Académica:
+
+Grafo Dirigido: Facilitamos la carga de cursos y sus dependencias mediante archivos JSON, visualizando conexiones a través de un grafo dirigido. Esto proporciona una herramienta efectiva para la planificación académica.
+
+3. Integridad y Seguridad de Datos:
+
+Árbol de Merkle: Garantizamos la integridad de las acciones y la seguridad del contenido mediante un árbol de Merkle, utilizado por los administradores para tomar decisiones sobre libros propuestos por tutores.
+
+4. Gestión Eficiente de Contenido Educativo:
+
+Codificación Base64: Los tutores pueden cargar libros y contenido educativo certificado y aprobado por el administrador, utilizando codificación Base64 para una gestión eficiente de archivos.
+
+5. Experiencia Educativa Personalizada:
+
+Acceso Diferenciado: Los usuarios, ya sean estudiantes, tutores o administradores, acceden a la plataforma de manera personalizada para adaptar la experiencia a sus necesidades específicas.
+
+6. Reportes Visuales en Tiempo Real:
+
+Representaciones Gráficas: Los administradores generan reportes visuales en tiempo real, proporcionando representaciones gráficas del árbol B, tabla hash, árbol de Merkle y grafo de cursos para una comprensión visual de la información.
+
+7. Seguridad y Recomendaciones:
+
+Encriptación y Tecnologías Robustas: Priorizamos la seguridad mediante la encriptación de contraseñas y el uso de tecnologías robustas para proteger la integridad de los datos. Recomendamos utilizar navegadores actualizados para una experiencia óptima.
 
 
 ### INSTALACIÓN DEL PROGRAMA Y USO DEL PROGRAMA
